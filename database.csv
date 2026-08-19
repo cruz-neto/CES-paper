@@ -1,0 +1,158 @@
+"","...1","sex","age","schooling","income","visitation","start","deslocation_time","permanence","fuel_consumption","vehicle_with_engine","distance","age_dummy","schooling_dummy","years_dummy","fuel_price","fuel_cost","travel_cost"
+"1",1,"Feminino","60 anos ou mais","Doutorado","acima de 5",1,"Anapolis",120,"mais de duas horas",117,"Álcool",58.5,1,1,0,3.65,427.05,427.05
+"2",2,"Masculino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",1,"Gameleira de Goias",64,"ate meia hora",60,"Gasolina",27.5,0,0,1,5.87,352.2,352.2
+"3",3,"Masculino","19 a 35 anos","Graduacao incompleta","acima de 3 ate 5",2,"Silvania",180,"mais de duas horas",15.8,"Gasolina",8,1,0,1,5.87,92.746,92.746
+"4",4,"Feminino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",1,"Silvania",180,"mais de duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"5",5,"Feminino","36 a 59 anos","Doutorado","acima de 5",2,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,1,1,0,6.18,723.06,723.06
+"6",6,"Masculino","19 a 35 anos","Doutorado incompleto","acima de 3 ate 5",1,"Silvania",32,"mais de duas horas",15.8,"Álcool",8,1,1,1,3.65,57.67,57.67
+"7",7,"Masculino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"8",8,"Masculino","19 a 35 anos","Doutorado","acima de 5",1,"Silvania",32,"mais de duas horas",15.8,"Álcool",8,1,1,1,3.65,57.67,57.67
+"9",9,"Feminino","36 a 59 anos","Doutorado","acima de 5",1,"Anapolis",116,"mais de duas horas",117,"Álcool",58.5,1,1,0,3.65,427.05,427.05
+"10",10,"Masculino","19 a 35 anos","Doutorado incompleto","acima de 1 ate 3",1,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,0,1,1,5.87,92.746,92.746
+"11",11,"Feminino","19 a 35 anos","Mestre","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,1,1,5.87,686.79,686.79
+"12",12,"Masculino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",1,"Silvania",32,"mais de uma hora a duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"13",13,"Feminino","19 a 35 anos","Ensino completo","ate 1",1,"Silvania",32,"mais de uma hora a duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"14",14,"Masculino","19 a 35 anos","Ensino medio incompleto","acima de 3 ate 5",2,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,1,0,1,5.87,92.746,92.746
+"15",15,"Masculino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",2,"Silvania",68,"mais de meia hora ate uma hora",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"16",16,"Feminino","36 a 59 anos","Graduacao completa","acima de 1 ate 3",1,"Silvania",32,"ate meia hora",15.8,"Álcool",8,0,1,0,3.65,57.67,57.67
+"17",17,"Feminino","18 anos","Ensino completo","acima de 1 ate 3",5,"Silvania",68,"mais de uma hora a duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"18",18,"Masculino","36 a 59 anos","Graduacao completa","acima de 1 ate 3",12,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,0,1,0,5.87,92.746,92.746
+"19",19,"Feminino","19 a 35 anos","Doutorado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,1,1,5.87,686.79,686.79
+"20",20,"Feminino","19 a 35 anos","Ensino completo","acima de 1 ate 3",1,"Silvania",35,"mais de duas horas",15.8,"Diesel",8,0,0,1,6.18,97.644,97.644
+"21",21,"Feminino","19 a 35 anos","Ensino completo","ate 1",2,"Silvania",30,"mais de uma hora a duas horas",15.8,"Álcool",8,0,0,1,3.65,57.67,57.67
+"22",22,"Masculino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",2,"Silvania",68,"mais de uma hora a duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"23",23,"Feminino","19 a 35 anos","Ensino medio incompleto","acima de 1 ate 3",2,"Silvania",30,"mais de uma hora a duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"24",24,"Feminino","19 a 35 anos","Ensino completo","acima de 3 ate 5",1,"Silvania",32,"ate meia hora",15.8,"Gasolina",8,1,0,1,5.87,92.746,92.746
+"25",25,"Feminino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",6,"Goiania",180,"mais de duas horas",146.2,"Gasolina",73.1,0,1,1,5.87,858.194,858.194
+"26",26,"Feminino","19 a 35 anos","Graduacao completa","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,1,1,5.87,686.79,686.79
+"27",27,"Feminino","19 a 35 anos","Doutorado incompleto","acima de 1 ate 3",2,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,1,1,5.87,686.79,686.79
+"28",28,"Feminino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",4,"Silvania",68,"mais de duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"29",29,"Feminino","19 a 35 anos","Mestre","acima de 3 ate 5",2,"Jussara",480,"mais de uma hora a duas horas",600,"Gasolina",27.5,1,1,1,5.87,3522,3522
+"30",30,"Masculino","36 a 59 anos","Graduacao completa","acima de 3 ate 5",4,"Leopoldo de Bulhoes",68,"mais de uma hora a duas horas",24,"Gasolina",11.8,1,1,0,5.87,140.88,140.88
+"31",31,"Feminino","19 a 35 anos","Ensino completo","acima de 1 ate 3",4,"Leopoldo de Bulhoes",68,"mais de uma hora a duas horas",24,"Gasolina",11.8,0,0,1,5.87,140.88,140.88
+"32",32,"Masculino","19 a 35 anos","Ensino completo","acima de 3 ate 5",2,"Silvania",68,"ate meia hora",15.8,"Gasolina",8,1,0,1,5.87,92.746,92.746
+"33",33,"Feminino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",2,"Silvania",32,"mais de uma hora a duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"34",34,"Masculino","19 a 35 anos","Ensino completo","acima de 1 ate 3",6,"Silvania",68,"mais de duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"35",35,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",3,"Goiania",180,"mais de duas horas",146.2,"Álcool",73.1,1,1,0,3.65,533.63,533.63
+"36",36,"Masculino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Formosa",480,"mais de duas horas",560,"Gasolina",274,0,1,1,5.87,3287.2,3287.2
+"37",37,"Feminino","19 a 35 anos","Mestrado incompleto","ate 1",2,"Silvania",32,"mais de meia hora ate uma hora",15.8,"Gasolina",8,0,1,1,5.87,92.746,92.746
+"38",38,"Feminino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",120,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"39",39,"Masculino","19 a 35 anos","Ensino medio incompleto","ate 1",1,"Goiania",180,"mais de duas horas",146.2,"Gasolina",73.1,0,0,1,5.87,858.194,858.194
+"40",40,"Masculino","19 a 35 anos","Graduacao completa","acima de 3 ate 5",1,"Orizona",136,"mais de duas horas",142,"Gasolina",71,1,1,1,5.87,833.54,833.54
+"41",41,"Feminino","36 a 59 anos","Graduacao completa","acima de 3 ate 5",1,"Silvania",32,"mais de uma hora a duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"42",42,"Feminino","19 a 35 anos","Mestre","acima de 1 ate 3",4,"Silvania",32,"mais de uma hora a duas horas",15.8,"Álcool",8,0,1,1,3.65,57.67,57.67
+"43",43,"Feminino","36 a 59 anos","Especializacao completa","acima de 5",2,"Silvania",68,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"44",44,"Masculino","19 a 35 anos","Graduacao completa","acima de 3 ate 5",4,"Silvania",70,"mais de uma hora a duas horas",15.8,"Gasolina",8,1,1,1,5.87,92.746,92.746
+"45",45,"Masculino","60 anos ou mais","Mestrado incompleto","acima de 5",4,"Brasilia",346,"mais de duas horas",418,"Gasolina",0,1,1,0,5.87,2453.66,2453.66
+"46",46,"Feminino","19 a 35 anos","Especializacao completa","acima de 3 ate 5",3,"Brasilia",350,"mais de uma hora a duas horas",418,"Gasolina",0,1,1,1,5.87,2453.66,2453.66
+"47",47,"Feminino","36 a 59 anos","Ensino completo","acima de 3 ate 5",12,"Silvania",68,"mais de duas horas",15.8,"Gasolina",8,1,0,0,5.87,92.746,92.746
+"48",48,"Masculino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",120,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"49",49,"Masculino","36 a 59 anos","Especializacao incompleta","acima de 5",3,"Vianopolis",170,"mais de uma hora a duas horas",54.4,"Gasolina",27.2,1,1,0,5.87,319.328,319.328
+"50",50,"Feminino","36 a 59 anos","Mestre","acima de 5",5,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"51",51,"Feminino","36 a 59 anos","Graduacao completa","ate 1",1,"Silvania",35,"mais de duas horas",15.8,"Diesel",8,0,1,0,6.18,97.644,97.644
+"52",52,"Feminino","36 a 59 anos","Graduacao completa","acima de 1 ate 3",1,"Silvania",68,"mais de duas horas",15.8,"Gasolina",8,0,1,0,5.87,92.746,92.746
+"53",53,"Feminino","36 a 59 anos","Mestre","acima de 5",2,"Silvania",68,"ate meia hora",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"54",54,"Masculino","36 a 59 anos","Graduacao completa","acima de 5",5,"Silvania",68,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"55",55,"Feminino","19 a 35 anos","Especializacao completa","acima de 3 ate 5",1,"Goiania",180,"mais de meia hora ate uma hora",146.2,"Álcool",73.1,1,1,1,3.65,533.63,533.63
+"56",56,"Feminino","19 a 35 anos","Especializacao completa","acima de 1 ate 3",1,"Silvania",32,"mais de uma hora a duas horas",15.8,"Gasolina",8,0,1,1,5.87,92.746,92.746
+"57",57,"Feminino","36 a 59 anos","Mestrado incompleto","acima de 5",1,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"58",58,"Feminino","19 a 35 anos","Especializacao completa","acima de 5",1,"Silvania",32,"mais de meia hora ate uma hora",15.8,"Gasolina",8,1,1,1,5.87,92.746,92.746
+"59",59,"Feminino","36 a 59 anos","Graduacao completa","acima de 1 ate 3",4,"Silvania",68,"mais de meia hora ate uma hora",15.8,"Gasolina",8,0,1,0,5.87,92.746,92.746
+"60",60,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",5,"Silvania",70,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"61",61,"Feminino","19 a 35 anos","Mestre","acima de 3 ate 5",1,"Silvania",32,"mais de duas horas",15.8,"Diesel",8,1,1,1,6.18,97.644,97.644
+"62",62,"Feminino","19 a 35 anos","Especializacao completa","acima de 1 ate 3",1,"Morrinhos",320,"mais de duas horas",376,"Diesel",0,0,1,1,6.18,2323.68,2323.68
+"63",63,"Masculino","19 a 35 anos","Doutorado incompleto","acima de 1 ate 3",1,"Morrinhos",320,"mais de duas horas",376,"Diesel",0,0,1,1,6.18,2323.68,2323.68
+"64",64,"Feminino","36 a 59 anos","Doutorado incompleto","acima de 5",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,1,1,0,6.18,723.06,723.06
+"65",65,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,0,1,5.87,686.79,686.79
+"66",66,"Masculino","36 a 59 anos","Mestrado incompleto","acima de 5",1,"Goiania",180,"mais de duas horas",146.2,"Álcool",73.1,1,1,0,3.65,533.63,533.63
+"67",67,"Feminino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"68",68,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"69",69,"Feminino","36 a 59 anos","Mestrado incompleto","acima de 5",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,1,1,0,6.18,723.06,723.06
+"70",70,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",6,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"71",71,"Masculino","19 a 35 anos","Doutorado incompleto","acima de 1 ate 3",6,"Goiania",180,"mais de duas horas",146.2,"Gasolina",73.1,0,1,1,5.87,858.194,858.194
+"72",72,"Feminino","36 a 59 anos","Mestre","acima de 5",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,1,1,0,6.18,723.06,723.06
+"73",73,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",6,"Silvania",32,"mais de duas horas",15.8,"Álcool",8,1,1,0,3.65,57.67,57.67
+"74",74,"Masculino","19 a 35 anos","Mestrado incompleto","acima de 3 ate 5",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,1,1,1,6.18,723.06,723.06
+"75",75,"Feminino","36 a 59 anos","Doutorado","acima de 5",1,"Goiania",180,"mais de duas horas",146.2,"Gasolina",73.1,1,1,0,5.87,858.194,858.194
+"76",76,"Feminino","19 a 35 anos","Mestre","acima de 3 ate 5",1,"Silvania",32,"mais de duas horas",15.8,"Álcool",8,1,1,1,3.65,57.67,57.67
+"77",77,"Masculino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",1,"Silvania",34,"mais de duas horas",15.8,"Gasolina",8,0,1,0,5.87,92.746,92.746
+"78",78,"Feminino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",1,"Silvania",34,"mais de duas horas",15.8,"Álcool",8,0,1,0,3.65,57.67,57.67
+"79",79,"Masculino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",1,"Silvania",34,"mais de duas horas",15.8,"Diesel",8,1,1,0,6.18,97.644,97.644
+"80",80,"Masculino","36 a 59 anos","Especializacao completa","acima de 5",1,"Vianopolis",72,"mais de duas horas",54.4,"Gasolina",27.2,1,1,0,5.87,319.328,319.328
+"81",81,"Feminino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",1,"Vianopolis",72,"mais de duas horas",54.4,"Gasolina",27.2,0,1,0,5.87,319.328,319.328
+"82",82,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",1,"Vianopolis",72,"mais de duas horas",54.4,"Álcool",27.2,1,1,0,3.65,198.56,198.56
+"83",83,"Masculino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"84",84,"Feminino","36 a 59 anos","Mestre","acima de 5",3,"Silvania",32,"mais de duas horas",15.8,"Diesel",8,1,1,0,6.18,97.644,97.644
+"85",85,"Masculino","19 a 35 anos","Especializacao completa","acima de 3 ate 5",3,"Silvania",32,"mais de uma hora a duas horas",15.8,"Gasolina",8,1,1,1,5.87,92.746,92.746
+"86",86,"Masculino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"87",87,"Feminino","19 a 35 anos","Graduacao completa","acima de 1 ate 3",1,"Vianopolis",72,"mais de duas horas",54.4,"Gasolina",27.2,0,1,1,5.87,319.328,319.328
+"88",88,"Feminino","36 a 59 anos","Mestrado incompleto","acima de 3 ate 5",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,1,1,0,5.87,686.79,686.79
+"89",89,"Masculino","19 a 35 anos","Doutorado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"90",90,"Feminino","19 a 35 anos","Mestrado incompleto","acima de 3 ate 5",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,1,1,1,5.87,686.79,686.79
+"91",91,"Feminino","36 a 59 anos","Graduacao completa","acima de 1 ate 3",1,"Vianopolis",72,"mais de duas horas",54.4,"Diesel",27.2,0,1,0,6.18,336.192,336.192
+"92",92,"Masculino","36 a 59 anos","Especializacao completa","acima de 5",1,"Vianopolis",72,"mais de duas horas",54.4,"Diesel",27.2,1,1,0,6.18,336.192,336.192
+"93",93,"Masculino","19 a 35 anos","Especializacao completa","acima de 1 ate 3",1,"Vianopolis",72,"mais de duas horas",54.4,"Diesel",27.2,0,1,1,6.18,336.192,336.192
+"94",94,"Feminino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",1,"Vianopolis",72,"mais de duas horas",54.4,"Álcool",27.2,0,1,0,3.65,198.56,198.56
+"95",95,"Feminino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",1,"Silvania",32,"mais de uma hora a duas horas",15.8,"Gasolina",8,0,1,0,5.87,92.746,92.746
+"96",96,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",1,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"97",97,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",1,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"98",98,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",3,"Silvania",32,"mais de duas horas",15.8,"Diesel",8,1,1,0,6.18,97.644,97.644
+"99",99,"Masculino","19 a 35 anos","Mestrado incompleto","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"100",100,"Feminino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",3,"Silvania",30,"mais de duas horas",15.8,"Gasolina",8,0,1,0,5.87,92.746,92.746
+"101",101,"Feminino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"102",102,"Masculino","19 a 35 anos","Mestrado incompleto","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,1,1,5.87,686.79,686.79
+"103",103,"Masculino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"104",104,"Masculino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,1,1,6.18,723.06,723.06
+"105",105,"Feminino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"106",106,"Feminino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"107",107,"Feminino","19 a 35 anos","Ensino completo","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"108",108,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"109",109,"Masculino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"110",110,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"111",111,"Feminino","36 a 59 anos","Doutorado incompleto","acima de 5",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,1,1,0,6.18,723.06,723.06
+"112",112,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"113",113,"Feminino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,0,1,5.87,686.79,686.79
+"114",114,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,0,1,5.87,686.79,686.79
+"115",115,"Masculino","19 a 35 anos","Graduacao completa","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,1,1,5.87,686.79,686.79
+"116",116,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"117",117,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"118",118,"Feminino","19 a 35 anos","Mestrado incompleto","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,0,1,1,5.87,686.79,686.79
+"119",119,"Feminino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",1,"Silvania",32,"mais de duas horas",15.8,"Álcool",8,0,1,0,3.65,57.67,57.67
+"120",120,"Feminino","36 a 59 anos","Mestrado incompleto","acima de 5",1,"Vianopolis",72,"mais de duas horas",54.4,"Gasolina",27.2,1,1,0,5.87,319.328,319.328
+"121",121,"Feminino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",1,"Silvania",34,"mais de duas horas",15.8,"Gasolina",8,0,1,0,5.87,92.746,92.746
+"122",122,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",1,"Silvania",34,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"123",123,"Feminino","19 a 35 anos","Especializacao completa","acima de 1 ate 3",1,"Vianopolis",72,"mais de duas horas",54.4,"Gasolina",27.2,0,1,1,5.87,319.328,319.328
+"124",124,"Feminino","36 a 59 anos","Especializacao completa","acima de 1 ate 3",1,"Silvania",32,"mais de duas horas",15.8,"Diesel",8,0,1,0,6.18,97.644,97.644
+"125",125,"Feminino","36 a 59 anos","Graduacao completa","acima de 1 ate 3",3,"Silvania",34,"mais de duas horas",15.8,"Diesel",8,0,1,0,6.18,97.644,97.644
+"126",126,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",1,"Vianopolis",80,"mais de duas horas",54.4,"Diesel",27.2,1,1,0,6.18,336.192,336.192
+"127",127,"Masculino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",2,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,1,1,0,5.87,92.746,92.746
+"128",128,"Masculino","36 a 59 anos","Doutorado","acima de 5",2,"Goiania",180,"mais de duas horas",146.2,"Álcool",73.1,1,1,0,3.65,533.63,533.63
+"129",129,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",6,"Silvania",34,"mais de duas horas",15.8,"Gasolina",8,0,0,1,5.87,92.746,92.746
+"130",130,"Masculino","36 a 59 anos","Ensino medio incompleto","acima de 1 ate 3",6,"Silvania",32,"mais de duas horas",15.8,"Gasolina",8,0,0,0,5.87,92.746,92.746
+"131",131,"Feminino","19 a 35 anos","Doutorado incompleto","acima de 1 ate 3",3,"Goiania",180,"mais de duas horas",146.2,"Álcool",73.1,0,1,1,3.65,533.63,533.63
+"132",132,"Feminino","19 a 35 anos","Mestre","acima de 3 ate 5",2,"Jussara",480,"mais de duas horas",600,"Álcool",27.5,1,1,1,3.65,2190,2190
+"133",133,"Masculino","36 a 59 anos","Ensino completo","acima de 1 ate 3",6,"Silvania",32,"mais de duas horas",15.8,"Diesel",8,0,0,0,6.18,97.644,97.644
+"134",134,"Masculino","19 a 35 anos","Ensino completo","acima de 1 ate 3",6,"Silvania",32,"mais de duas horas",15.8,"Diesel",8,0,0,1,6.18,97.644,97.644
+"135",135,"Feminino","36 a 59 anos","Graduacao completa","acima de 3 ate 5",2,"Silvania",34,"mais de duas horas",15.8,"Álcool",8,1,1,0,3.65,57.67,57.67
+"136",136,"Feminino","19 a 35 anos","Mestrado incompleto","acima de 1 ate 3",1,"Anapolis",116,"mais de duas horas",117,"Álcool",58.5,0,1,1,3.65,427.05,427.05
+"137",137,"Feminino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",1,"Anapolis",116,"mais de duas horas",117,"Gasolina",58.5,1,1,0,5.87,686.79,686.79
+"138",138,"Feminino","19 a 35 anos","Graduacao incompleta","ate 1",1,"Anapolis",116,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"139",139,"Masculino","36 a 59 anos","Mestrado incompleto","acima de 5",1,"Brasilia",346,"mais de duas horas",418,"Gasolina",0,1,1,0,5.87,2453.66,2453.66
+"140",140,"Feminino","36 a 59 anos","Doutorado incompleto","acima de 5",2,"Goiania",180,"mais de duas horas",146.2,"Diesel",73.1,1,1,0,6.18,903.516,903.516
+"141",141,"Masculino","19 a 35 anos","Mestre","acima de 3 ate 5",2,"Silvania",32,"mais de uma hora a duas horas",15,"Álcool",8,1,1,1,3.65,54.75,54.75
+"142",142,"Feminino","19 a 35 anos","Ensino medio incompleto","ate 1",1,"Anapolis",120,"mais de duas horas",117,"Diesel",58.5,0,0,1,6.18,723.06,723.06
+"143",143,"Masculino","19 a 35 anos","Graduacao completa","acima de 1 ate 3",2,"Silvânia",32,"mais de meia hora ate uma hora",1692057600,"Álcool",0,0,1,1,3.65,6176010240,6176010240
+"144",144,"Masculino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",2,"Silvânia",32,"mais de duas horas",1692057600,"Álcool",0,0,0,1,3.65,6176010240,6176010240
+"145",145,"Feminino","19 a 35 anos","Graduacao incompleta","acima de 1 ate 3",6,"Silvânia",32,"mais de duas horas",15.8,"Álcool",0,0,0,1,3.65,57.67,57.67
+"146",146,"Masculino","19 a 35 anos","Ensino medio incompleto","acima de 3 ate 5",6,"Silvânia",32,"mais de meia hora ate uma hora",15.8,"Álcool",0,1,0,1,3.65,57.67,57.67
+"147",147,"Masculino","36 a 59 anos",NA,"acima de 1 ate 3",6,"Silvânia",30,"mais de duas horas",15.8,"Álcool",0,0,0,0,3.65,57.67,57.67
+"148",148,"Masculino","36 a 59 anos","Graduacao completa","acima de 1 ate 3",6,"Silvânia",32,"mais de uma hora a duas horas",15.8,"Álcool",0,0,1,0,3.65,57.67,57.67
+"149",149,"Feminino","36 a 59 anos","Especializacao incompleta","acima de 1 ate 3",6,"Silvânia",32,"mais de duas horas",15.8,"Gasolina",0,0,1,0,5.87,92.746,92.746
+"150",150,"Masculino","36 a 59 anos","Especializacao completa","acima de 3 ate 5",2,"Silvânia",40,"mais de meia hora ate uma hora",15.8,"Gasolina",0,1,1,0,5.87,92.746,92.746
+"151",151,"Feminino","36 a 59 anos","Ensino completo","acima de 1 ate 3",4,"Silvânia",32,"mais de duas horas",15.8,"Gasolina",0,0,0,0,5.87,92.746,92.746
+"152",152,"Masculino","18 anos",NA,"ate 1",2,"Silvânia",40,"mais de meia hora ate uma hora",15.8,"Gasolina",0,0,0,1,5.87,92.746,92.746
+"153",153,"Masculino","18 anos",NA,"ate 1",1,"Silvânia",40,"ate meia hora",15.8,"Gasolina",0,0,0,1,5.87,92.746,92.746
+"154",154,"Masculino","18 anos",NA,"ate 1",2,"Silvânia",40,"mais de uma hora a duas horas",15.8,"Gasolina",0,0,0,1,5.87,92.746,92.746
+"155",155,"Masculino","19 a 35 anos","Ensino completo","acima de 1 ate 3",1,"Goiânia",180,"mais de uma hora a duas horas",146.2,"Gasolina",0,0,0,1,5.87,858.194,858.194
+"156",156,"Feminino","19 a 35 anos","Ensino completo","ate 1",2,"Silvânia",32,"mais de uma hora a duas horas",15.8,"Gasolina",0,0,0,1,5.87,92.746,92.746
+"157",157,NA,"19 a 35 anos",NA,"0",6,"Silvânia",NA,"mais de duas horas",0,"Álcool",0,0,1,1,3.65,0,0

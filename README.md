@@ -117,7 +117,7 @@ Full derivations and discussion are in Section 2.4 and 3.1 of the manuscript, an
 
 ## Citation
 
-If you use this dataset or code, please cite the manuscript:
+If you use this dataset or code, please cite the manuscript: [UNDER REVIEW]
 
 > Márquez, L. A. M., Machado, K. B., Soares, P. T., & Cruz Neto, C. C. (2026). Recreational Demand and Access Costs in National Forest of Silvânia. *[Journal / Dossiê Geoturismo e o Cerrado Brasileiro]*.
 
